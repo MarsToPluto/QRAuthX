@@ -1,5 +1,3 @@
----
-
 ### 📘 `README.md`
 
 ```markdown
@@ -99,5 +97,3 @@ https://github.com/MarsToPluto
 ### 🔹 Short GitHub Description:
 
 > Secure QR-based login system with 2FA and 11-word recovery phrases. Built using Node.js, Express, MongoDB, and TOTP. Inspired by WhatsApp Web login flow.
-
----
