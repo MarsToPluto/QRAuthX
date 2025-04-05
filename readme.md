@@ -1,5 +1,3 @@
-Absolutely! Here's a clean and professional `README.md` for **QRAuthX**, including a shorter description you can use for GitHub.
-
 ---
 
 ### 📘 `README.md`
@@ -103,5 +101,3 @@ https://github.com/MarsToPluto
 > Secure QR-based login system with 2FA and 11-word recovery phrases. Built using Node.js, Express, MongoDB, and TOTP. Inspired by WhatsApp Web login flow.
 
 ---
-
-Let me know if you want this deployed or styled with a frontend (React/HTML UI), or even Dockerized for deployment 😎
